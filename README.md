@@ -44,7 +44,7 @@ This project analyzes customer churn behavior for a telecom company using an int
 
 1. Clone the repository:
    ```bash
-   https://github.com/VaishnavCM/Churn-Analysis
+   https://github.com/VaishnavCM/churn-Analysis
  
 
 ## 📈 Business Insights from the Dashboard
